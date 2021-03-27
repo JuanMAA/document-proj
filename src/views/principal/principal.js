@@ -1,4 +1,3 @@
-import './App.css';
 
 import React from 'react';
 import { fade, makeStyles } from '@material-ui/core/styles';
@@ -178,7 +177,7 @@ function App() {
           <MenuIcon />
         </IconButton>
         <Typography className={classes.title} variant="h6" noWrap>
-          GestorDOCS
+          GestorDOCSss
         </Typography>
         <div className={classes.search}>
           <div className={classes.searchIcon}>
